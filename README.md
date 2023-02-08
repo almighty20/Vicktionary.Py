@@ -1,4 +1,4 @@
-# Wicktionary
+# Vicktionary
 
 
 #### Introduction:
@@ -13,4 +13,3 @@ Vicktionary: a simple and sophisticated next-gen dictionary.
 + Integrated Image Results for Smart Searches
 + Of course, Zero Advertisements
 
-## App in Action:
